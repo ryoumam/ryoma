@@ -1,4 +1,4 @@
-@prefix ex:    <https://ryoumam.github.io/ryoma/test.ttl#/> .
+@prefix ex:    <https://ryoumam.github.io/ryoma/test.ttl#> .
 
 ex:こころ  a       ex:小説 ;
         <http://purl.org/dc/elements/1.1/creator>
