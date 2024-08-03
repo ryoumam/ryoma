@@ -1,1126 +1,1126 @@
-@prefix ex:    <https://ryoumam.github.io/ryoma/test.ttl#> .
+@prefix ex:    <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets21>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets26>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:滝島家家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町8-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets90>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1975/6/9> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:中福の神楽 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字中福2 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets62>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2015/3/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:三軒家樋管 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字古谷上 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets34>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1988/6/6> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:岡家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:元町1-5-15 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets75>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2006/3/27> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:永島家住宅（旧武家屋敷） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:三久保町5-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(記念物)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets47>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/7/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:南大塚菅原神社本殿・拝殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:南大塚2-4-7 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets19>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:宮岡家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町7-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets88>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2004/3/24> , <https://ryoumam.github.io/ryoma/test.ttl#1992/8/7> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:上寺山の獅子舞 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字石田783 , ex:大字上寺山498-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##place>
-        a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "place" .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets4>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1971/6/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:大沢家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:元町1-4-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:国指定重要文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets41>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2011/2/7> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:旧山崎氏別邸庭園 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-7-8 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets13>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1956/11/1> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:八坂神社社殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:宮下町2-11-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets82>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1959/3/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:南大塚の餅つき踊り ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:南大塚2-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets54>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2007/8/10> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:元町2丁目六塚稲荷神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:元町2-8-12 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets26>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
                 ex:松本家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
                 ex:仲町10-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets67>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1999/10/14> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets67>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1999/10/14> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
                 ex:佐久間旅館奥の間 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
                 ex:松江町2-5-4 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
                 ex:登録有形文化財 .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets39>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1995/4/12> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets39>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1995/4/12> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
                 ex:広済寺金毘羅堂及び常什物一括 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
                 ex:喜多町5-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets20>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets20>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
                 ex:原家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
                 ex:幸町7-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets61>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2015/3/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets61>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2015/3/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
                 ex:沼口門樋 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
                 ex:大字古谷上 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets9>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1956/3/23> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets5>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1999/12/1> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越市川越重要建造物群保存地区 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:重要伝統的建造物群保存地区 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets33>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1988/1/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:喜多院番所 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:小仙波町1-1-20 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:山下家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町10-9 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##name>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets74>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2023/3/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:山王塚古墳 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大塚1-12-21 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#国指定(記念物)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets46>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/7/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:的場八幡神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字的場529 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets18>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:小谷野家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町7-4 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets87>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1980/2/13> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:鯨井の万作 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字鯨井1840 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets59>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2014/3/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#埼玉県立川越女子高等学校 明治記念館> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:六軒町1-23 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets40>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2000/4/7> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:旧山崎家別邸 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-7-8 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets12>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1956/11/1> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:氷川神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:宮下町2-11-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets81>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1959/3/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越祭りばやし（中台） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:中台元町1-13 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets53>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2007/8/10> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:大袋白髭神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字大袋258 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets25>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:塩野家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町9-9 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets94>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1972/2/8> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:芳地戸のフセギ ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字笠幡1280 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets66>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1999/10/14> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:手打ちそば百丈（旧湯宮釣具店） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:元町1-1-15 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:登録有形文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets38>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/3/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:宮澤家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:六軒町1-11-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets79>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1980/3/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:石原の獅子舞 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:石原町1-1-18 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets60>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2015/3/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:笹原門樋 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字古谷上 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets4>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1971/6/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:大沢家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:元町1-4-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:国指定重要文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets32>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1988/1/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:服部家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町6-8 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets73>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1958/3/6> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:小仙波貝塚 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:小仙波町3-11 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(記念物)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets45>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/3/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:旧栄養食配給所 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-12-4 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets17>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:平岩・矢萩両家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町7-5 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets86>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2002/2/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:下小坂の獅子舞 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字下小坂1002 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets58>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2009/1/28> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:上戸日枝神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字上戸316-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets11>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1995/3/17> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:古尾谷八幡神社社殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字古谷本郷1408-10 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets80>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1959/3/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越祭りばやし（今福） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字今福673 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets52>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2007/8/10> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:寿町白山神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:寿町1-2303 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets24>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:小林家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町2-16 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets93>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1988/1/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:福田の獅子舞 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字福田425-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets65>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1998/10/9> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越商工会議所（旧武州銀行川越支店） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町1-12 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:登録有形文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+        a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "kind" .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets9>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1956/3/23> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:喜多院番所 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:小仙波町1-1-20 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets37>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2004/3/24> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:齋藤家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字下新河岸45 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets78>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1998/3/17> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:ほろ祭 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字古谷本1408-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets3>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1950/8/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:日枝神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:小仙波町1-4-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:国指定重要文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets31>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:田口家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-5-11 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets72>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1925/3/31> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越城跡 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(記念物)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets44>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/3/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:旧川越織物市場 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-11-10 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets16>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:旧小山家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町7-9 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets85>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1972/2/8> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:上寺山のマングリ ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字上寺山498-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets57>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2009/1/28> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:笠幡白鬚神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字笠幡3686 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets29>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:山崎家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町2-6 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets10>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1995/3/17> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:古尾谷八幡神社旧本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字古谷本郷1408-10 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets51>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/7/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:山田八幡神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字山田340 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets23>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:小島家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町3-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets92>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1974/5/30> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:南田島の足踊り ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字南田島280 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets64>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1997/12/12> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:カワモク本部事務所棟（旧六軒町郵便局） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:田町5-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:登録有形文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets8>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1968/12/17> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:喜多院多宝堂 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:小仙波町1-1-20 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets36>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1996/4/12> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:吉田家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:連雀町8-13 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets77>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/2/21> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:重要無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越氷川祭の山車行事 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#国指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets49>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/7/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:木野目稲荷神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字木野目1162 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
         a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "name" .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets33>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1988/1/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets2>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1950/8/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:山下家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町10-9 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets74>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2023/3/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:山王塚古墳 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大塚1-12-21 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#国指定(記念物)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets46>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/7/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:的場八幡神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字的場529 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets18>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:小谷野家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町7-4 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets87>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1980/2/13> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:鯨井の万作 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字鯨井1840 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets59>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2014/3/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                <https://ryoumam.github.io/ryoma/test.ttl#埼玉県立川越女子高等学校 明治記念館> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:六軒町1-23 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets3>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1950/8/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:日枝神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:小仙波町1-4-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:東照宮 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:小仙波町1-1-21 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
                 ex:国指定重要文化財 .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets40>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2000/4/7> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets30>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:旧山崎家別邸 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-7-8 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:原田家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-8-6 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets12>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1956/11/1> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets71>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1984/12/6> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:河越館跡 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字上戸207-5 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#国指定(記念物)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets43>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1996/4/12> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:氷川神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:宮下町2-11-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:蓮光寺総門 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字伊佐沼577 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets81>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1959/3/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets15>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1958/3/6> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:時の鐘 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町7-15 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets84>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1959/3/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越祭りばやし（中台） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:中台元町1-13 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:老袋の万作 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:下老袋732 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets53>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2007/8/10> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets56>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2007/8/10> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:大袋白髭神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字大袋258 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:砂久保稲荷神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字砂久保66 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets25>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets28>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:塩野家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町9-9 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:山崎家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町4-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets94>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1972/2/8> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:芳地戸のフセギ ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字笠幡1280 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets66>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1999/10/14> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:手打ちそば百丈（旧湯宮釣具店） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:元町1-1-15 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:登録有形文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets38>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/3/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:宮澤家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:六軒町1-11-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##addDate>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
         a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "addDate" .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets79>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1980/3/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:石原の獅子舞 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:石原町1-1-18 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets60>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2015/3/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets69>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2004/11/8> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:笹原門樋 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字古谷上 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets32>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1988/1/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:服部家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町6-8 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets8>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1968/12/17> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:喜多院多宝堂 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:小仙波町1-1-20 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets73>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1958/3/6> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:小仙波貝塚 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:小仙波町3-11 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(記念物)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets45>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/3/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:旧栄養食配給所 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-12-4 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets17>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:平岩・矢萩両家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町7-5 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets86>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2002/2/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:下小坂の獅子舞 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字下小坂1002 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets58>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2009/1/28> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:上戸日枝神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字上戸316-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets2>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1950/8/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:東照宮 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:小仙波町1-1-21 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:国指定重要文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets11>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1995/3/17> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:古尾谷八幡神社社殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字古谷本郷1408-10 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets80>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1959/3/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越祭りばやし（今福） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字今福673 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets52>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2007/8/10> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:寿町白山神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:寿町1-2303 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets24>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:小林家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町2-16 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets93>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1988/1/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:福田の獅子舞 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字福田425-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets65>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1998/10/9> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越商工会議所（旧武州銀行川越支店） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町1-12 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:太陽軒 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:元町1-1-23 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
                 ex:登録有形文化財 .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets37>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2004/3/24> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets50>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/7/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:齋藤家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字下新河岸45 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:鴨田八幡神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字鴨田1072 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets78>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1998/3/17> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets22>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:福田家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大手町4-14 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets91>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1972/2/8> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:ほろ祭 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字古谷本1408-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:石田藤宮神社の筒粥神事 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字石田783 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets31>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets63>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1996/12/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:田口家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-5-11 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:あさひ銀行川越支店（旧八十五銀行本店本館） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町4-2 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:登録有形文化財 .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets7>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1968/12/17> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets7>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1968/12/17> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
                 ex:喜多院慈恵堂 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
                 ex:小仙波町1-1-20 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets72>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1925/3/31> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越城跡 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(記念物)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets44>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/3/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets35>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1994/4/1> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:旧川越織物市場 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-11-10 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:田中家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町6-4 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##type>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets76>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1934/3/31> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:並木の大クス ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字並木277 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(記念物)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets48>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/7/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:砂新田春日神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字砂新田140 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets89>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:石田の獅子舞 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets1>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1950/8/29> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:喜多院 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:小仙波町1-1-20 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:国指定重要文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets70>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2008/3/7> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:旧鏡山酒造明治蔵・大正蔵・昭和蔵 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:新富町1-10-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:登録有形文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets42>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1958/3/6> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:薬師神社 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字伊佐沼577 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets14>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1955/11/1> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:三芳野神社社殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:郭町2-11-25 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets83>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1959/3/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:老袋の弓取式 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字下老袋732 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets55>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2007/8/10> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:新宿氷川神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:新宿町1-22 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets27>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:松崎家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:仲町6-2 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets68>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2001/11/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:日本聖公会川越キリスト教会礼拝堂 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-4-13 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                ex:登録有形文化財 .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets21>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:滝島家家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町8-1 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets90>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1975/6/9> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:中福の神楽 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字中福2 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets62>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2015/3/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:三軒家樋管 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字古谷上 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets6>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1967/3/28> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:川越本丸御殿及び家老詰所 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:郭町2-1-13 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets34>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1988/6/6> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:岡家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:元町1-5-15 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets75>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2006/3/27> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:永島家住宅（旧武家屋敷） ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:三久保町5-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(記念物)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets47>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2005/7/22> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:南大塚菅原神社本殿・拝殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:南大塚2-4-7 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets19>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1981/12/25> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:宮岡家住宅 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:幸町7-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets88>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2004/3/24> , <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1992/8/7> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:無形民俗文化財 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:上寺山の獅子舞 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:大字石田783 , ex:大字上寺山498-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(民俗文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+        a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "place" .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
         a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "type" .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets16>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets41>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2011/2/7> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:旧小山家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町7-9 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:旧山崎氏別邸庭園 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:松江町2-7-8 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets85>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1972/2/8> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets13>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1956/11/1> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
+                ex:建造物 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:八坂神社社殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:宮下町2-11-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(有形文化財)> .
+
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets82>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#1959/3/20> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:上寺山のマングリ ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字上寺山498-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:南大塚の餅つき踊り ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:南大塚2-3 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#県指定(民俗文化財)> .
 
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets57>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2009/1/28> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
+<https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##CultualAssets54>
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##addDate>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#2007/8/10> ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##kind>
                 ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:笠幡白鬚神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字笠幡3686 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets29>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:山崎家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町2-6 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets1>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1950/8/29> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:喜多院 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:小仙波町1-1-20 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:国指定重要文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets10>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1995/3/17> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:古尾谷八幡神社旧本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字古谷本郷1408-10 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets51>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/7/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:山田八幡神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字山田340 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets23>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:小島家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町3-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets92>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1974/5/30> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:南田島の足踊り ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字南田島280 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets64>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1997/12/12> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:カワモク本部事務所棟（旧六軒町郵便局） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:田町5-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:登録有形文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets36>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1996/4/12> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:吉田家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:連雀町8-13 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets77>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/2/21> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:重要無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越氷川祭の山車行事 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#国指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets49>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/7/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:木野目稲荷神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字木野目1162 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets30>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:原田家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-8-6 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets6>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1967/3/28> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越本丸御殿及び家老詰所 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:郭町2-1-13 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets71>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1984/12/6> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:河越館跡 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字上戸207-5 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#国指定(記念物)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets43>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1996/4/12> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:蓮光寺総門 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字伊佐沼577 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets15>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1958/3/6> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:時の鐘 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町7-15 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets84>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1959/3/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:老袋の万作 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:下老袋732 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets56>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2007/8/10> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:砂久保稲荷神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字砂久保66 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets28>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:山崎家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町4-3 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets69>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2004/11/8> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:太陽軒 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:元町1-1-23 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:登録有形文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets50>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/7/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:鴨田八幡神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字鴨田1072 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets22>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:福田家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大手町4-14 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets91>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1972/2/8> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:石田藤宮神社の筒粥神事 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字石田783 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets63>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1996/12/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:あさひ銀行川越支店（旧八十五銀行本店本館） ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:幸町4-2 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:登録有形文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets35>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1994/4/1> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:田中家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町6-4 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets76>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1934/3/31> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:並木の大クス ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字並木277 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(記念物)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets48>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2005/7/22> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:砂新田春日神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字砂新田140 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets89>
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:石田の獅子舞 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets5>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1999/12/1> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:川越市川越重要建造物群保存地区 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:重要伝統的建造物群保存地区 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets70>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2008/3/7> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:旧鏡山酒造明治蔵・大正蔵・昭和蔵 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:新富町1-10-1 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:登録有形文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets42>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1958/3/6> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:薬師神社 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字伊佐沼577 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets14>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1955/11/1> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:三芳野神社社殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:郭町2-11-25 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets83>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1959/3/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:無形民俗文化財 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:老袋の弓取式 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:大字下老袋732 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#県指定(民俗文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets55>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2007/8/10> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:新宿氷川神社本殿 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:新宿町1-22 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets27>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#1981/12/25> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:松崎家住宅 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:仲町6-2 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                <https://ryoumam.github.io/ryoma/test.ttl#市指定(有形文化財)> .
-
-<https://ryoumam.github.io/ryoma/test.ttl##CultualAssets68>
-        <https://ryoumam.github.io/ryoma/test.ttl##addDate>
-                <https://ryoumam.github.io/ryoma/test.ttl#2001/11/20> ;
-        <https://ryoumam.github.io/ryoma/test.ttl##kind>
-                ex:建造物 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##name>
-                ex:日本聖公会川越キリスト教会礼拝堂 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##place>
-                ex:松江町2-4-13 ;
-        <https://ryoumam.github.io/ryoma/test.ttl##type>
-                ex:登録有形文化財 .
-
-<https://ryoumam.github.io/ryoma/test.ttl##kind>
-        a       <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "kind" .
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##name>
+                ex:元町2丁目六塚稲荷神社本殿 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##place>
+                ex:元町2-8-12 ;
+        <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl##type>
+                <https://ryoumam.github.io/ryoma/KawagoeCultualAssets.ttl#市指定(有形文化財)> .
